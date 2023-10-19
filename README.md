@@ -1,4 +1,4 @@
-# nuxt starter
+# nuxt kit
 
 ## Build Setup
 
